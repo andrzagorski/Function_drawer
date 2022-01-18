@@ -1,0 +1,11 @@
+release/data_layer.o
+release/gui_layer.o
+release/main.o
+release/mainwindow.o
+release/qcustomplot.o
+release/rysowanie.o
+release/services_layer.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o
+release/moc_rysowanie.o

@@ -1,0 +1,11 @@
+debug/data_layer.o
+debug/gui_layer.o
+debug/main.o
+debug/mainwindow.o
+debug/qcustomplot.o
+debug/rysowanie.o
+debug/services_layer.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_mainwindow.o
+debug/moc_qcustomplot.o
+debug/moc_rysowanie.o
